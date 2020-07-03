@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LikkiBankSolutionsUI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# LikkiBankSolutionsUI
+>>>>>>> f07f41809e2bd7c4cd1c7edeb21d92ba17a42179
