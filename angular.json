@@ -62,7 +62,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "LikkiBankSolutionsUI:build"
+            "browserTarget": "LikkiBankSolutionsUI:build",
+            "port": 8088
           },
           "configurations": {
             "production": {
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LikkiBankSolutionsUI"
+    }
+  },
+  "defaultProject": "LikkiBankSolutionsUI",
+  "cli": {
+    "analytics": "23fd0b4c-9b27-4683-99ad-761d37b2299b"
+  }
 }
